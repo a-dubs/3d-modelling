@@ -1,14 +1,16 @@
-# Boilerplate for Projects on GitHub
+# 3D Modelling Sandbox / Showcase
 
-This is the boilerplate for all my personal projects on GitHub. (This is the brief description for this repository)
+A collection of various 3D models I created over time and want to show to world
+
 
 <br>
 
 ## Summary
- - This is the template boilerplate repository for all personal projects that I have on my GitHub. 
- - This template will expedite the creation and maintenance of all my various projects' repositories.
- - And more importantly, the standardized format will allow for auto parsing of the repository by a python script to automatically update my personal portfolio website.  
-
+ - These are all creations that I either made out of boredom or for some personal project that just was not important enough to have its own spot on my GitHub - so they live here now 
+ - Models that can be found in this collection include:
+   - Skar VXF12 Subwoofer
+   - Plan for dorm room layout
+   - 2 dream monitor layout concepts
 <br>
 
 ## Image Gallery
@@ -19,8 +21,7 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 
 ## Project Metadata
 
-**Project Status** : (Active, Inactive, Archived)  
-**Project Progress** : (Concept, In Progress, Functional, Complete)
-
-**Project dates** : Jan '22 - Present  
+**Project Status** : Active  
+**Project Progress** : Concept  
+**Project dates** : May '20 - Present  
 
